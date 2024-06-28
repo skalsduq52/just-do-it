@@ -1,4 +1,4 @@
-package 프로그래머스;
+package 프로그래머스.LV1;
 
 public class 크기가작은부분문자열 {
 
