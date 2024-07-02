@@ -19,14 +19,10 @@ public class 콜라문제 {
 		int n = 20;
 		
 		int answer = 0;
-		int bottle = 0;
 		
 		while(n>=a) {
 			answer += (n/a) * b;
-			bottle = n%a;
-			n = (n/a) * b;
-			n += bottle;
-			bottle = 0;
+			n = ((n/a) * b) + n%a;
 		}
 		
 	}
