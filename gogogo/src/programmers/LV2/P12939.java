@@ -1,6 +1,6 @@
-package 프로그래머스.LV2;
+package programmers.LV2;
 
-public class 최댓값과최솟값 {
+public class P12939 {
 
 	public static void main(String[] args) {
 

@@ -1,8 +1,8 @@
-package 프로그래머스.LV1;
+package programmers.LV1;
 
 import java.util.HashMap;
 
-public class 옹알이 {
+public class P133499 {
 
 	public static void main(String[] args) {
 

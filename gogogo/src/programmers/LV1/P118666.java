@@ -1,8 +1,8 @@
-package 프로그래머스.LV1;
+package programmers.LV1;
 
 import java.util.HashMap;
 
-public class 성격유형검사하기 {
+public class P118666 {
 
 	public static void main(String[] args) {
 

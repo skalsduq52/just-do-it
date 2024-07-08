@@ -1,9 +1,9 @@
-package 프로그래머스.LV1;
+package programmers.LV1;
 
 import java.util.*;
 import java.io.*;
 
-public class 데이터분석 {
+public class P250121 {
 
 	public static void main(String[] args) throws IOException {
 		

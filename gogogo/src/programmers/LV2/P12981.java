@@ -1,9 +1,9 @@
-package 프로그래머스.LV2;
+package programmers.LV2;
 
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class 영어끝말잇기 {
+public class P12981 {
 
 	public static void main(String[] args) {
 

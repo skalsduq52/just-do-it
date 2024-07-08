@@ -1,8 +1,8 @@
-package 프로그래머스.LV1;
+package programmers.LV1;
 
 import java.util.*;
 
-public class 숫자짝꿍 {
+public class P131128 {
 
 	public static void main(String[] args) {
 

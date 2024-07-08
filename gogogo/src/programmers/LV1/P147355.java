@@ -1,6 +1,6 @@
-package 프로그래머스.LV1;
+package programmers.LV1;
 
-public class 크기가작은부분문자열 {
+public class P147355 {
 
 	public static void main(String[] args) {
 

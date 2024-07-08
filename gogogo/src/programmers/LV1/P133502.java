@@ -1,8 +1,8 @@
-package 프로그래머스.LV1;
+package programmers.LV1;
 
 import java.util.HashMap;
 
-public class 햄버거만들기 {
+public class P133502 {
 
 	public static void main(String[] args) {
 
