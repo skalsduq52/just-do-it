@@ -33,6 +33,7 @@ public class P77484 {
 		int tmp = 0;
 		
 		HashMap<Integer,Boolean> map = new HashMap<>();
+		
 		HashMap<Integer,Integer> rank = new HashMap<>();
 		rank.put(6,1);
 		rank.put(5,2);
