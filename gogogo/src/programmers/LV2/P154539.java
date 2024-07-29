@@ -25,7 +25,6 @@ public class P154539 {
 		int answer[] = new int[numbers.length];
 		Arrays.fill(answer, -1);
 		
-		
 		Stack<Integer> st = new Stack<>();		
 		
 		for (int i = numbers.length-1; i>=0;i--) {
